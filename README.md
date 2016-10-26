@@ -1,2 +1,5 @@
-# AxlLind.github.io
+# BallGame
 Super duper awesome game!
+
+<https://www.theresistancekth.github.io/BallGame>
+
