@@ -6,7 +6,7 @@ ctx.strokeStyle = "#000000";
 var notLost = true, firstPlay = true, score = 0;
 var rectX = canvas.width/2 -75;
 var img = new Image();
-img.src = 'ball.png';
+img.src = 'images/ball.png';
 var ballX = canvas.width/2 -25,
     ballY = 20,
     veloX = 0.5 + (Math.random()),
